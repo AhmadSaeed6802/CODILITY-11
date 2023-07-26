@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\web codility test1\web codility test1\bin\Debug\web codility test1.exe.config
+C:\Users\4890\source\repos\web codility test1\web codility test1\bin\Debug\web codility test1.exe
+C:\Users\4890\source\repos\web codility test1\web codility test1\bin\Debug\web codility test1.pdb
+C:\Users\4890\source\repos\web codility test1\web codility test1\obj\Debug\web codility test1.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\web codility test1\web codility test1\obj\Debug\web codility test1.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\web codility test1\web codility test1\obj\Debug\web codility test1.exe
+C:\Users\4890\source\repos\web codility test1\web codility test1\obj\Debug\web codility test1.pdb
